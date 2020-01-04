@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="77a82f03-0c68-41ff-ab99-819bb1804137" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="DefaultGradleProjectSettings">
+        <option
+            name="testRunner"
+            value="GRADLE" />
+        <option
+            name="delegatedBuild"
+            value="true" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="136">
+                            <caret
+                                column="13"
+                                lean-forward="true"
+                                line="8"
+                                selection-end-column="13"
+                                selection-end-line="8"
+                                selection-start-column="13"
+                                selection-start-line="8" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component
+        name="ProjectFrameBounds"
+        extendedState="6">
+        <option
+            name="x"
+            value="10" />
+        <option
+            name="y"
+            value="20" />
+        <option
+            name="width"
+            value="1004" />
+        <option name="height"
